@@ -1,0 +1,8 @@
+.gradle/
+build/
+.claude
+agents.md
+.classpath
+.project
+.settings/
+bin
